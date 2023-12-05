@@ -1,5 +1,5 @@
 ## Привет! :hand: Меня зовут Егор, я разработчик С++
-### Я выпускник курса С++ Яндекс.Практикума:books:
+### Я выпускник курса С++ Яндекс.Практикума :books:
 Стек:
 С++17, CMake, Protobuf, STL, Visual Studio
 - [habr.com](https://career.habr.com/nesterovegor091)
